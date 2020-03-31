@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px" height="36px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="263.386077347314" y1="349.83591933115" x2="180.434930786996" y2="372.260075434271" id="LinearGradient336">
+      <stop id="Stop337" stop-color="#a593e0" offset="0" />
+      <stop id="Stop338" stop-color="#8e7bc7" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="184.78461765664" y1="352.617242366298" x2="263.522962309568" y2="368.530676232994" id="LinearGradient339">
+      <stop id="Stop340" stop-color="#a593e0" offset="0" />
+      <stop id="Stop341" stop-color="#8e7bc7" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -175 -342 )">
+    <path d="M 175.5 346  A 3.5 3.5 0 0 1 179 342.5 L 267 342.5  A 3.5 3.5 0 0 1 270.5 346 L 270.5 374  A 3.5 3.5 0 0 1 267 377.5 L 179 377.5  A 3.5 3.5 0 0 1 175.5 374 L 175.5 346  Z " fill-rule="nonzero" fill="url(#LinearGradient336)" stroke="none" />
+    <path d="M 175.5 346  A 3.5 3.5 0 0 1 179 342.5 L 267 342.5  A 3.5 3.5 0 0 1 270.5 346 L 270.5 374  A 3.5 3.5 0 0 1 267 377.5 L 179 377.5  A 3.5 3.5 0 0 1 175.5 374 L 175.5 346  Z " stroke-width="1" stroke="url(#LinearGradient339)" fill="none" />
+  </g>
+</svg>
